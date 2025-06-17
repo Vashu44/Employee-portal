@@ -1,0 +1,77 @@
+[
+  {
+    "username": "aman",
+    "email": "ama@example.com",
+    "password": "aman123@"
+  },
+  {
+    "username": "rahul",
+    "email": "rahul@example.com",
+    "password": "rahul456@"
+  },
+  {
+    "username": "neha",
+    "email": "neha@example.com",
+    "password": "neha789@"
+  },
+  {
+    "username": "vikas",
+    "email": "vikas@example.com",
+    "password": "vikas321@"
+  },
+  {
+    "username": "priya",
+    "email": "priya@example.com",
+    "password": "priya654@"
+  },
+  {
+    "username": "sahil",
+    "email": "sahil@example.com",
+    "password": "sahil987@"
+  },
+  {
+    "username": "meena",
+    "email": "meena@example.com",
+    "password": "meena852@"
+  },
+  {
+    "username": "rohit",
+    "email": "rohit@example.com",
+    "password": "rohit159@"
+  },
+  {
+    "username": "kiran",
+    "email": "kiran@example.com",
+    "password": "kiran753@"
+  },
+  {
+    "username": "deepak",
+    "email": "deepak@example.com",
+    "password": "deepak456@"
+  },
+  {
+    "username": "hitesh",
+    "email": "hitesh@example.com",
+    "password": "hitesh123@"
+  },
+  { 
+    "username": "kumar",
+    "email": "kumar@example.com",    no include
+    "password": "kumar123@"
+  },
+  {
+    "username": "hitesh",
+    "email": "hiteshbih1@gmail.com",
+    "password": "Kumar9876@"
+  },
+  {
+  "username": "dummy",
+  "email": "hiteshbih11@gmail.com",
+  "password": "dummy123@"
+  },
+  {
+  "username": "sinha",
+  "email": "simasinhabih1@gmail.com",
+  "password": "Sinha123@"
+  }
+]

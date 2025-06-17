@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+bcrypt
+fastapi-mail
+pip install python-dotenv
+redis
+
+
+# create virtual environment ->  python -m venv myenv       
+# Start Virtual Environment ->   myenv\Scripts\activate   
+# docker start redis:> docker run -d -p 6379:6379 redis
+
+#         output:14f4f9e4701d1a536d01d46ffdbc5995a47f1876aebc524b   :> not Exact but similar
+#  check Your Docker server :>   docker ps
+#      CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS              PORTS                    NAMES
+#      14f4f9e4701d   redis     "docker-entrypoint.s…"   About a minute ago   Up About a minute   0.0.0.0:6379->6379/tcp   upbeat_hypatia
+#                  Thats  means Your Docker is running Smoothly
+#
+#terminal Code :>     docker exec -it {14f4f9e4701d}-> container Id  redis-cli ping
+#                Output Will be:>  PONG
+#       Redis is running Smoothly
+#  run the Backend server:> uvicorn main:app --reload
+
